@@ -5,3 +5,4 @@
 - **Build-a-Mochi builder and `mochi.config.json` support** — community addition from the buildamochi.com community.
 
 Sites made from this template are community-run and **not affiliated with Bernhard Mueller or Pragma Research**. Please keep this note and the in-page credits.
+- **Trystero** 0.26.0 (MIT, Dan Motzenbecker) — vendored in `web/js/vendor/` for the peer-to-peer plaza; licence in `web/js/vendor/TRYSTERO-LICENSE`.
